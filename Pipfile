@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+slack-sdk = "3.34.0"
+oracledb = "2.5.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
